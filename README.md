@@ -1,6 +1,6 @@
 # ESP8266_LCD_Interface
 
-This project demonstrates how to use an ESP8266 to control a 128x64 LCD using the U8g2 library. The program displays a progress bar and a status message on the screen.
+This project demonstrates how to use an ESP8266 to control a 128x64 LCD (SPI Mode) using the U8g2 library. The program displays a progress bar and a status message on the screen.
 
 ## Features
 
