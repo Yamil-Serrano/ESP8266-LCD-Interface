@@ -34,3 +34,13 @@ This project demonstrates how to use an ESP8266 to control a 128x64 LCD (SPI Mod
 1. Clone this repository:
    ```bash
    https://github.com/Yamil-Serrano/ESP8266_LCD_Interface.git
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me:
+
+GitHub: [Neowizen](https://github.com/Yamil-Serrano)
