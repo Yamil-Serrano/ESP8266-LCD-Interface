@@ -1,7 +1,7 @@
 #include <U8g2lib.h>
 
 // Initialize the ST7920 128x64 LCD screen in SPI Mode
-U8G2_ST7920_128X64_F_SW_SPI u8g2(U8G2_R0, /* clock=*/ 14, /* data=*/ 13, /* CS=*/ 15, /* reset=*/ U8X8_PIN_NONE);
+U8G2_ST7920_128X64_F_SW_SPI u8g2(U8G2_R0, /* clock (E)=*/ 14, /* data (R/W)=*/ 12, /* CS (RS)=*/ 13, /* reset=*/ U8X8_PIN_NONE);
 
 void setup(void) {
   u8g2.begin();
